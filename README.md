@@ -1,6 +1,7 @@
 ### Olá, eu sou o Lucas 👋
 
 🔭 Atualmente estudando: React 
+
 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/lucas-trevisolli-pereira)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=LucasTrevis&label=Visualizações&color=0e75b6&style=flat)
