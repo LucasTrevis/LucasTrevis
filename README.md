@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Next.js](https://img.shields.io/badge/Next.js-%20?style=for-the-badge&logo=nextdotjs&logoColor=black&color=white)
 ---
 
 ### 🏆 GitHub Trophies  
