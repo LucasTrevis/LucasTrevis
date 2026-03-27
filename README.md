@@ -32,7 +32,7 @@ PHP • JavaScript • TypeScript • HTML5 • CSS3 • React • Next.js • T
 
 <div align="center">
 
-<img height="170em" src="https://streak-stats.demolab.com?user=LucasTrevis&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=LucasTrevis&theme=react&locale=pt_BR&short_numbers=true&mode=weekly&hide_current_streak=true" alt="GitHub Streak" />
 <img height="170em" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasTrevis&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
 
 </div>
